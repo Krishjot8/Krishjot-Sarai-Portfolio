@@ -79,9 +79,7 @@ const ContactCard = () => {
             </Box>
             <Box>
               <Link
-                href="
-
-https://drive.google.com/file/d/1LW9mp-Tsn3Wt9lpajz_ksJhJT3gvjf4X/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1LW9mp-Tsn3Wt9lpajz_ksJhJT3gvjf4X/view?usp=drive_link"
                 isExternal
               >
                 <HStack>
