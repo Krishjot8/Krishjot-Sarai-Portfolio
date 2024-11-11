@@ -486,7 +486,7 @@ const About = () => {
                   <tr>
                     <td>Lone Star College</td>
                     <td>Mobile/Application Development</td>
-                    <td>March 2024 - Present</td>
+                    <td>March 2024 – Present</td>
                   </tr>
                 </tbody>
               </table>
