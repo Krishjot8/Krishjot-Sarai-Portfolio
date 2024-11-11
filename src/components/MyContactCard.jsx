@@ -72,7 +72,7 @@ const ContactCard = () => {
                     width: "33px",
                     height: "33px",
                     display: "inline-block",
-                    color: "blue",
+                    color: "black",
                   }}
                 />
               </Link>
