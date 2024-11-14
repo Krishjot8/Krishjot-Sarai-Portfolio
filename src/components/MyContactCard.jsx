@@ -50,7 +50,7 @@ const ContactCard = () => {
                 krishjot8@yahoo.com
               </Text>
             </Box>
-            <Box>
+            <Box>//Great
               <Link
                 href="https://www.linkedin.com/in/krishjot-sarai-023011247/"
                 isExternal
