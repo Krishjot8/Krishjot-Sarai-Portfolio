@@ -1,7 +1,7 @@
 import { Box, Container, Heading } from "@chakra-ui/react";
 import { Prose } from "@nikolovlazar/chakra-ui-prose";
 
-const About = () => {
+const Experience = () => {
   return (
     <>
       <Heading
@@ -38,6 +38,7 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://www.udemy.com/course/learn-to-build-an-e-commerce-app-with-net-core-and-angular/?kw=build+e&src=sac&couponCode=ST2MT110724ANEW"
+                        rel="noreferrer"
                       >
                         <u>Online eCommerce Website</u>
                       </a>
@@ -62,6 +63,7 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://www.udemy.com/course/docker-for-net-and-angular-developers/?couponCode=NVD20PMUS"
+                        rel="noreferrer"
                       >
                         <u>
                           Docker & Kubernetes for .NET and Angular developers
@@ -83,6 +85,7 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://www.udemy.com/course/devops-aws-code-build-test/?srsltid=AfmBOoqlHyUzvzX4XPVv3c81dAS6xaIjcFESSXYiV8gDi-C4rseSQl7x"
+                        rel="noreferrer"
                       >
                         <u>DevOps on AWS</u>
                       </a>
@@ -101,7 +104,8 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://www.udemy.com/course/json-short-course-step-by-step-for-beginners/?utm_source=bing&utm_medium=udemyads&utm_campaign=BG-Search_DSA_GammaCatchall_NonP_la.EN_cc.US&campaigntype=Search&portfolio=Bing-USA&language=EN&product=Course&test=&audience=DSA&topic=&priority=Gamma&utm_content=deal4584&utm_term=_._ag_1323814378205514_._ad__._kw_udemy_._de_c_._dm__._pl__._ti_dat-2334538064213560:loc-190_._li_65739_._pd__._&matchtype=b&msclkid=17211da888081adb8ad07a85aa3445ba"
-                    >
+                        rel="noreferrer"
+                      >
                         <u>JSON</u>
                       </a>
                     </td>
@@ -117,13 +121,13 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://www.udemy.com/course/xml-step-by-step-for-beginners/?srsltid=AfmBOoosUWRGgN_C-vhz3TNPccd41wNl-fE373zNAITGpBIMvxKSdBS_"
+                        rel="noreferrer"
                       >
                         <u>XML</u>
                       </a>
                     </td>
                     <td>
-                      Learned about XML Language
-                      , XML, Syntax, the DOM,XML
+                      Learned about XML Language , XML, Syntax, the DOM,XML
                       Namespace, XSLT, XSD - XML Schema.
                     </td>
                     <td>1 hour</td>
@@ -133,6 +137,7 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://www.udemy.com/course/free-cicd-pipeline-devops/?kw=FREE+CI%2F&src=sac"
+                        rel="noreferrer"
                       >
                         <u>CI/CD Pipelines</u>
                       </a>
@@ -149,6 +154,7 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://www.udemy.com/course/animated-sql-for-beginners/?kw=animated+SQL&src=sac"
+                        rel="noreferrer"
                       >
                         <u>Animated SQL For Beginners</u>
                       </a>
@@ -168,6 +174,7 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://www.udemy.com/course/introduction-to-cloud-computing-on-amazon-aws-for-beginners/?couponCode=NVD20PMUS"
+                        rel="noreferrer"
                       >
                         <u>Cloud Computing on AWS for Beginners</u>
                       </a>
@@ -191,6 +198,7 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://www.udemy.com/course/c-sharp-oop-ultimate-guide-project-master-class/?couponCode=NVD20PMUS"
+                        rel="noreferrer"
                       >
                         <u>C# 10 Ultimate Guide Beginner to Advanced</u>
                       </a>
@@ -208,6 +216,7 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://www.udemy.com/course/csharp-beginner-to-advanced/?kw=getting+started+with+C%23&src=sac"
+                        rel="noreferrer"
                       >
                         <u>Getting Started with C#</u>
                       </a>
@@ -223,6 +232,7 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://www.udemy.com/course/50-projects-50-days/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_Alpha_Prof_la.EN_cc.US&campaigntype=Search&portfolio=USA&language=EN&product=Course&test=&audience=DSA&topic=JavaScript&priority=Alpha&utm_content=deal4584&utm_term=_._ag_161389392955_._ad_696073743357_._kw__._de_c_._dm__._pl__._ti_dsa-1676636482719_._li_9027616_._pd__._&matchtype=&gad_source=1&gclid=Cj0KCQiA57G5BhDUARIsACgCYnyiFsktFc7cKHcZ4z1l6a25uRpIkwZcNUYfr0c7maSmjy120NCMjewaAi7lEALw_wcB&couponCode=NVD20PMUS"
+                        rel="noreferrer"
                       >
                         <u>50 Projects with HTML CSS & JavaScript</u>
                       </a>
@@ -239,6 +249,7 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://www.udemy.com/course/angular-material-course/?kw=angular+material&src=sac&couponCode=NVD20PMUS"
+                        rel="noreferrer"
                       >
                         <u>Angular Material in Depth</u>
                       </a>
@@ -255,6 +266,7 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://www.udemy.com/course/real-world-app-angular-aspnet-core-web-api-and-sql/?kw=build+amazi&src=sac&couponCode=NVD20PMUS"
+                        rel="noreferrer"
                       >
                         <u>Student Admin Portal</u>
                       </a>
@@ -279,6 +291,7 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://www.udemy.com/course/learn-web-development-by-building-a-blog/?couponCode=NVD20PMUS"
+                        rel="noreferrer"
                       >
                         <u>BlogLab API</u>
                       </a>
@@ -305,6 +318,7 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://www.udemy.com/course/angular-for-juniors-building-real-world-application/?couponCode=NVD20PMUS"
+                        rel="noreferrer"
                       >
                         <u>MovieApp</u>
                       </a>
@@ -331,6 +345,7 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://www.udemy.com/course/angular-for-juniors-building-real-world-application/?couponCode=NVD20PMUS"
+                        rel="noreferrer"
                       >
                         <u>SQL Server Reporting Services</u>
                       </a>
@@ -348,6 +363,7 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://www.udemy.com/course/creating-net-core-api/?couponCode=NVD20PMUS"
+                        rel="noreferrer"
                       >
                         <u>BookAPI Project</u>
                       </a>
@@ -365,6 +381,7 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://www.youtube.com/playlist?list=PLbJ-fy-2JEVkpz73RDkbA7dGtn8CNgwzm"
+                        rel="noreferrer"
                       >
                         <u>PragimTech SQL Server</u>
                       </a>
@@ -383,6 +400,7 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://www.youtube.com/playlist?list=PLAC325451207E3105"
+                        rel="noreferrer"
                       >
                         <u>PragimTech C# Videos</u>
                       </a>
@@ -399,6 +417,7 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/?couponCode=NVD20PMUS"
+                        rel="noreferrer"
                       >
                         <u>MySQL Bootcamp</u>
                       </a>
@@ -415,6 +434,7 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://www.udemy.com/course/mysql-dba-for-beginners/?couponCode=NVD20PMUS"
+                        rel="noreferrer"
                       >
                         <u>My SQL Database Administration</u>
                       </a>
@@ -434,6 +454,7 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://www.udemy.com/course/html5-fundamentals-for-beginners/?couponCode=NVD20PMUS"
+                        rel="noreferrer"
                       >
                         <u>HTML5 and CSS3 Fundamentals</u>
                       </a>
@@ -462,6 +483,7 @@ const About = () => {
                       <a
                         target="_blank"
                         href="https://interstate21.com/certificate/?code=3J04KWF"
+                        rel="noreferrer"
                       >
                         <u color="red">Junior Angular Developer</u>
                       </a>
@@ -503,31 +525,42 @@ const About = () => {
                 </thead>
                 <tbody>
                   <tr>
-                    <td>Medical Billing Service</td>
-                    <td>Office Assistant</td>
-                    <td>
-                      I Entered and sorted patient data for insurance companies
-                      and also documented and organized files.
-                    </td>
-                    <td>July 2018-July 2019</td>
-                  </tr>
-                  <tr>
                     <td>Axis Epc</td>
-                    <td>Junior Developer</td>
+                    <td>Autodesk Drafting Intern/Junior Software Developer</td>
                     <td>
-                      Solving company's basic programming problems i.e. creating
-                      database, modify Angular applications, fixing .net core
-                      application bugs, Testing etc.
+                      • Created and revised detail technical drawings using
+                      AutoCAD <br />
+                      • Modeled a 3D house using Revit <br />
+                      • Created databases, modified Angular applications <br />
+                      • Fixed.NET Core application bugs, testing etc. <br />
+                      • Solved company's basic programming problems <br />
                     </td>
                     <td>2022-Present</td>
                   </tr>
                   <tr>
                     <td>Jaarvis Technologies</td>
                     <td>Junior Full Stack Developer</td>
-                    <td>Created the company websites using HTML, CSS, JavaScript and WordPress.
-                      I also learned how to test plugins using JMeter as well as learning more about Continous Integration and Continous Delivery..
+                    <td>
+                      • Manipulated andmanaged thecompany's website using a
+                      Content Management System (CMS) <br />
+                      • Created a front-end website using HTML, CSS, and
+                      JavaScript to ensure aresponsive and interactive user
+                      experience <br />• Tested various plugins using JMeter to
+                      ensure performance and reliability
                     </td>
                     <td>September 2023 - October 2023</td>
+                  </tr>
+                  <tr>
+                    <td>Medical Billing Service</td>
+                    <td>Office Assistant</td>
+                    <td>
+                      • Entered and sorted Patient Data for insurance companies{" "}
+                      <br />
+                      • Reconciled patients’ date of services for a variety of
+                      clinics and doctors
+                      <br />• Documentation and Organizing patient files
+                    </td>
+                    <td>July 2018-July 2019</td>
                   </tr>
                 </tbody>
               </table>
@@ -540,4 +573,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default Experience;

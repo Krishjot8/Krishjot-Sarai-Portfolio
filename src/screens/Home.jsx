@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 const Home = () => {
   return (
     <>
-      <NavLink to="/about">
+      <NavLink to="/">
         <Box pt={{ base: "20px", xl: "40px" }}>
           <Center>
             <Image

@@ -50,7 +50,7 @@ const ContactCard = () => {
                 krishjot8@yahoo.com
               </Text>
             </Box>
-            <Box>//Great
+            <Box>
               <Link
                 href="https://www.linkedin.com/in/krishjot-sarai-023011247/"
                 isExternal
@@ -79,7 +79,7 @@ const ContactCard = () => {
             </Box>
             <Box>
               <Link
-                href="https://drive.google.com/file/d/1LW9mp-Tsn3Wt9lpajz_ksJhJT3gvjf4X/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1TtOr0VQb2C8DRgE2IhRYopIvURK-udWn/view?usp=drive_link"
                 isExternal
               >
                 <HStack>

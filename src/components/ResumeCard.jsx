@@ -13,7 +13,7 @@ import { motion } from "framer-motion";
 const ResumeCard = () => {
   return (
     <Link
-      href="https://docs.google.com/document/d/1DN_-zhxneRZWTNh33lbQgOx7WhdqOPiX/edit?usp=sharing&ouid=110050705256447090501&rtpof=true&sd=true"
+      href="https://drive.google.com/file/d/1TtOr0VQb2C8DRgE2IhRYopIvURK-udWn/view?usp=drive_link"
       isExternal
     >
       <motion.div whileHover={{ scale: 1.1 }}>
@@ -23,7 +23,7 @@ const ResumeCard = () => {
               <Flex flex="1" gap="6" alignItems="center" flexWrap="wrap">
                
                 <Box>
-                  <Heading size="sm">Evan Vargas</Heading>
+                  <Heading size="sm">Krishjot Sarai</Heading>
                   <Text>Resume</Text>
                 </Box>
               </Flex>

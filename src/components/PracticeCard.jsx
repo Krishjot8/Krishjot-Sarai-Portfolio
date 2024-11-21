@@ -4,7 +4,6 @@ import {
   Text,
   Heading,
   Flex,
-  Avatar,
   Box,
   Link,
   HStack,
@@ -13,16 +12,16 @@ import { motion } from "framer-motion";
 import { AiOutlineGithub } from "react-icons/ai";
 const PracticeCard = () => {
   return (
-    <Link href="https://github.com/eudeamonism" isExternal>
+    <Link href="https://github.com/Krishjot8" isExternal>
       <motion.div whileHover={{ scale: 1.1 }}>
         <Card maxW="sm">
           <CardHeader>
             <Flex spacing="4">
               <Flex flex="1" gap="6" alignItems="center" flexWrap="wrap">
-                <Avatar name="Evan Vargas" src="https://avatars.githubusercontent.com/u/70307095?v=4" />
+              
                 <Box>
-                  <Heading size="sm">Evan Vargas</Heading>
-                  <Text>@Eudeamonism</Text>
+                  <Heading size="sm">Krishjot Sarai</Heading>
+                  <Text>@Krishjot8</Text>
                   <Text>GitHub Repository</Text>
                 </Box>
               </Flex>
