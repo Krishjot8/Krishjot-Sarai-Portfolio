@@ -34,7 +34,7 @@ const ResumeCard = () => {
                     width: "40px",
                     height: "40px",
                     display: "inline-block",
-                  }}
+                  }}//awesome
                 />
               </HStack>
             </Flex>
